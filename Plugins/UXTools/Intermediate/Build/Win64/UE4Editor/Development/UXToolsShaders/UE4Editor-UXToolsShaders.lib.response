@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UXToolsShaders.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Intermediate\Build\Win64\UXToolsGameEditor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsShaders\UXToolsShaders.cpp.obj"
+"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsShaders\Default.rc2.res"
+/OUT:"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsShaders\UE4Editor-UXToolsShaders.lib"
+/INCLUDE:IMPLEMENT_MODULE_UXToolsShaders

@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UXToolsWMR.cpp.obj": [
+			"UxtWmrHandTracker.cpp.obj",
+			"UXToolsWMR.cpp.obj"
+		]
+	}
+}

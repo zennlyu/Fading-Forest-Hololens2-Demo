@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UXTools.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Intermediate\Build\Win64\UXToolsGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.NoUndef.h.obj"
+"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXTools\Module.UXTools.cpp.obj"
+"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXTools\Module.UXTools.gen.1_of_7.cpp.obj"
+"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXTools\Module.UXTools.gen.2_of_7.cpp.obj"
+"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXTools\Module.UXTools.gen.3_of_7.cpp.obj"
+"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXTools\Module.UXTools.gen.4_of_7.cpp.obj"
+"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXTools\Module.UXTools.gen.5_of_7.cpp.obj"
+"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXTools\Module.UXTools.gen.6_of_7.cpp.obj"
+"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXTools\Module.UXTools.gen.7_of_7.cpp.obj"
+"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXTools\Default.rc2.res"
+/OUT:"C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXTools\UE4Editor-UXTools.lib"
+/INCLUDE:IMPLEMENT_MODULE_UXTools

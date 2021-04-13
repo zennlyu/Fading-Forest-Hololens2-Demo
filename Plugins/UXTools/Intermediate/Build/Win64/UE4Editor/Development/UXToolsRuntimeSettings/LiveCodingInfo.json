@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UXToolsRuntimeSettings.cpp.obj": [
+			"UXToolsRuntimeSettingsModule.cpp.obj",
+			"UxtRuntimeSettings.cpp.obj"
+		],
+		"Module.UXToolsRuntimeSettings.gen.cpp.obj": [
+			"UXToolsRuntimeSettings.init.gen.cpp.obj",
+			"UxtRuntimeSettings.gen.cpp.obj"
+		]
+	}
+}

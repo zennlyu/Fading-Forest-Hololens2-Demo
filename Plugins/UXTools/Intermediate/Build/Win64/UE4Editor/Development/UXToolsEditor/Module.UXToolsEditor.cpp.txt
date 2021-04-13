@@ -1,0 +1,316 @@
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsEditor\Definitions.UXToolsEditor.h
+C:/Downloads/MixedReality-UXTools-Unreal-public-0.11.x (1)/MixedReality-UXTools-Unreal-public-0.11.x/UXToolsGame/Plugins/UXTools/Source/UXToolsEditor/Private/UxtIconBrushCustomization.cpp
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXToolsEditor\Public\UxtIconBrushCustomization.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\DetailLayoutBuilder.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\IDetailPropertyRow.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\DetailWidgetRow.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\Blutility\Public\EditorUtilitySubsystem.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Blutility\EditorUtilitySubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\Blutility\Classes\EditorUtilityWidgetBlueprint.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UMGEditor\Public\WidgetBlueprint.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\BaseWidgetBlueprint.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\BaseWidgetBlueprint.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\PropertyPath\Public\PropertyTypeCompatibility.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath\PropertyPathHelpers.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimationBinding.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMGEditor\WidgetBlueprint.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Blutility\EditorUtilityWidgetBlueprint.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\IDetailChildrenBuilder.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\DetailBuilderTypes.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXToolsEditor\Public\UxtIconBrushEditorUtilityWidget.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\Blutility\Classes\EditorUtilityWidget.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineReplStructs.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerMuteList.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerMuteList.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Camera/PlayerCameraManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerCameraManager.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/ForceFeedbackEffect.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ForceFeedbackEffect.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/UpdateLevelVisibilityLevelInfo.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UpdateLevelVisibilityLevelInfo.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetNavigation.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\NamedSlotInterface.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/LocalPlayer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Player.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Player.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\Subsystems/LocalPlayerSubsystem.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalPlayerSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalPlayer.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\Anchors.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Logging/MessageLog.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneCompletionMode.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneCompletionMode.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationCustomVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityBuilder.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityIDs.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/StrongObjectPtr.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Algo/AllOf.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeTransform.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeWarping.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactoryTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeHandler.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeInfo.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentDebug.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentPtr.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Algo/AnyOf.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Algo/NoneOf.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Algo/Common.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentRegistry.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactory.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityRange.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemTask.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/EntityAllocationIterator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentAccessors.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneSystemTaskDependencies.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneSequenceInstanceHandle.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemDirectedGraph.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrackEvaluationField.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackEvaluationField.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequence.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimation.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Blutility\EditorUtilityWidget.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXToolsEditor\UxtIconBrushEditorUtilityWidget.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Controls/UxtIconBrush.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Controls/UxtTextBrush.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtTextBrush.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtIconBrush.generated.h
+C:/Downloads/MixedReality-UXTools-Unreal-public-0.11.x (1)/MixedReality-UXTools-Unreal-public-0.11.x/UXToolsGame/Plugins/UXTools/Source/UXToolsEditor/Private/UxtIconBrushEditorUtilityWidget.cpp
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+C:/Downloads/MixedReality-UXTools-Unreal-public-0.11.x (1)/MixedReality-UXTools-Unreal-public-0.11.x/UXToolsGame/Plugins/UXTools/Source/UXToolsEditor/Private/UXToolsEditor.cpp
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXToolsEditor\Public\UXToolsEditor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\Settings\Public\ISettingsModule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\UnrealEdGlobals.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXToolsEditor\Public\UxtPressableButtonComponentVisualizer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\ComponentVisualizer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ComponentVisualizer.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Controls/UxtPressableButtonComponent.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Controls/UxtCollectionObject.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtCollectionObject.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Controls/UxtUIElementComponent.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtUIElementComponent.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Input/UxtPointerComponent.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtPointerComponent.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Interactions/UxtFarHandler.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtFarHandler.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Interactions/UxtFarTarget.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtFarTarget.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Interactions/UxtPokeHandler.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtPokeHandler.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Interactions/UxtPokeTarget.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtPokeTarget.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtPressableButtonComponent.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXToolsRuntimeSettings\Public\UxtRuntimeSettings.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Runtime\WindowsMixedReality\Source\WindowsMixedRealityHMD\Public\WindowsMixedRealityFunctionLibrary.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ime_cmodes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Runtime\WindowsMixedReality\Intermediate\Build\Win64\UE4Editor\Inc\WindowsMixedRealityHMD\WindowsMixedRealityFunctionLibrary.Generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Animation/AnimInstance.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Animation/AnimMontage.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\AlphaBlend.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AlphaBlend.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Animation/AnimCompositeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimCompositeBase.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Animation/TimeStretchCurve.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TimeStretchCurve.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimMontage.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Animation/AnimNotifies/AnimNotify.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNotify.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstance.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXToolsRuntimeSettings\UxtRuntimeSettings.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXToolsEditor\Public\UxtTooltipSpawnerComponentVisualizer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Editor/UnrealEdEngine.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\IPackageAutoSaver.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\IDDCNotifications.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\ComponentVisualizerManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\UnrealEdEngine.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Tooltips/UxtTooltipSpawnerComponent.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Interactions/UxtGrabHandler.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtGrabHandler.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Interactions/UxtGrabTarget.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtGrabTarget.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtTooltipSpawnerComponent.generated.h
+C:/Downloads/MixedReality-UXTools-Unreal-public-0.11.x (1)/MixedReality-UXTools-Unreal-public-0.11.x/UXToolsGame/Plugins/UXTools/Source/UXToolsEditor/Private/UxtPressableButtonComponentVisualizer.cpp
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Utils/UxtMathUtilsFunctionLibrary.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtMathUtilsFunctionLibrary.generated.h
+C:/Downloads/MixedReality-UXTools-Unreal-public-0.11.x (1)/MixedReality-UXTools-Unreal-public-0.11.x/UXToolsGame/Plugins/UXTools/Source/UXToolsEditor/Private/UxtTooltipSpawnerComponentVisualizer.cpp
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Components/WidgetComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetComponent.generated.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXTools\Public\Tooltips/UxtTooltipActor.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXTools\UxtTooltipActor.generated.h

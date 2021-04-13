@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UXToolsExamples.cpp.obj": [
+			"UxtExamplesInfo.cpp.obj",
+			"UXToolsExamples.cpp.obj"
+		],
+		"Module.UXToolsExamples.gen.cpp.obj": [
+			"UxtExamplesInfo.gen.cpp.obj",
+			"UXToolsExamples.init.gen.cpp.obj"
+		]
+	}
+}

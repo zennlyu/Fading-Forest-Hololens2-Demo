@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UXToolsEditor.cpp.obj": [
+			"UxtIconBrushCustomization.cpp.obj",
+			"UxtIconBrushEditorUtilityWidget.cpp.obj",
+			"UXToolsEditor.cpp.obj",
+			"UxtPressableButtonComponentVisualizer.cpp.obj",
+			"UxtTooltipSpawnerComponentVisualizer.cpp.obj"
+		],
+		"Module.UXToolsEditor.gen.cpp.obj": [
+			"UxtIconBrushEditorUtilityWidget.gen.cpp.obj",
+			"UXToolsEditor.init.gen.cpp.obj"
+		]
+	}
+}

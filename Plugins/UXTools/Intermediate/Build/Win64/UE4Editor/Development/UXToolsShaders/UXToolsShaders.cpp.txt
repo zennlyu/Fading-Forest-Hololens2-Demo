@@ -1,0 +1,47 @@
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsShaders\Definitions.UXToolsShaders.h
+C:\Downloads\MixedReality-UXTools-Unreal-public-0.11.x (1)\MixedReality-UXTools-Unreal-public-0.11.x\UXToolsGame\Plugins\UXTools\Source\UXToolsShaders\Public\UXToolsShaders.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\ShaderCore.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\UniformBuffer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMacros.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMetadata.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHI.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHIDefinitions.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\PixelFormat.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\MultiGPU.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHIValidationCommon.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHIResources.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\DynamicRHI.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHIContext.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHIUtilities.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHICommandList.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Async/Future.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\cstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderResource.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h

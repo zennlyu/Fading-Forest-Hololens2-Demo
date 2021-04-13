@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UXToolsInputSimulation.cpp.obj": [
+			"UxtInputSimulationActor.cpp.obj",
+			"UxtInputSimulationHeadMovementComponent.cpp.obj",
+			"UxtInputSimulationLocalPlayerSubsystem.cpp.obj",
+			"UxtInputSimulationState.cpp.obj",
+			"UXToolsInputSimulationModule.cpp.obj"
+		],
+		"Module.UXToolsInputSimulation.gen.cpp.obj": [
+			"UxtInputSimulationActor.gen.cpp.obj",
+			"UxtInputSimulationHeadMovementComponent.gen.cpp.obj",
+			"UxtInputSimulationLocalPlayerSubsystem.gen.cpp.obj",
+			"UxtInputSimulationState.gen.cpp.obj",
+			"UXToolsInputSimulation.init.gen.cpp.obj"
+		]
+	}
+}
